@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @donpc707
+- 👋 Hi, I’m @peteragunenye
 - 👀 I’m interested in software engineering, internet & network security, project management 
 - 🌱 I’m currently learning web design (front end)
 - 💞️ I’m looking to collaborate on 
